@@ -1,2 +1,2 @@
 # CDS
-Repositório de estudo e projetos da comunidade data science.
+Repositório de estudos e projetos da comunidade data science.
